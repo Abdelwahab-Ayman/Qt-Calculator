@@ -1,0 +1,9 @@
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Calculator.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/edit_cache.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/list_install_components.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/local.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/strip.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/home/debi/Qt Creator/Calculator/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Calculator_autogen.dir
